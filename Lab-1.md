@@ -10,15 +10,15 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 Connect the DMM alligator clamps to both ends of the resistor and set the DMM to measure Ohms. Compare the measured value to the expected value and check to see if it falls within the resistor's tolerance. Repeat for all 4 resistors.
 
-![Resistor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0001.jpg)
+![Resistor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/0001.jpg)
 
 Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure Farads. Compare the measured value to the expected value and check to see if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
 
-![Capacitor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0002.jpg)
+![Capacitor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/0002.jpg)
 
 Connect the DMM alligator clamps to the DC power supply plugs and set the DMM to measure voltage. Compare the measured value to the expected value for 1.5V, 7V, and 12V and document the results. Next change the DC power supply plugs to 3.3V/5.0V and 12V outputs on the power supply and document the DMM measurement values.
 
-![DC Power Supply Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/0003.jpg)
+![DC Power Supply Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/0003.jpg)
 
 The oscilloscope was wired to a function generator with a 10KΩ resistor and used to observe the sinusoidal signal created by the function generator. Set the function generator to 2kHz sine wave and use the 4 methods to measure the amplitude and frequency: counting squares, using the moveable cursors, using measurement features in the oscilloscope, and the Fluke DMM.
 
