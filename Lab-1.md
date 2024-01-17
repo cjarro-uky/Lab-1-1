@@ -22,7 +22,7 @@ Connect the DMM alligator clamps to the DC power supply plugs and set the DMM to
 
 The oscilloscope was wired to a function generator with a 10KΩ resistor and used to observe the sinusoidal signal created by the function generator. Set the function generator to 2kHz sine wave and use the 4 methods to measure the amplitude and frequency: counting squares, using the moveable cursors, using measurement features in the oscilloscope, and the Fluke DMM.
 
-![Oscilloscope Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Lab%201%20Image.jpg)
+![Oscilloscope Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/Lab%201%20Image.jpg)
 
 For Lab 1, no code is required to set up and complete the lab.
 
