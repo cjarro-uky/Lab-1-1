@@ -1,6 +1,6 @@
 # Lab Report 1: Knowing Your Instruments 
 Eli Barrow & Isaac Stevens      
-Jan. 10, 2024
+Jan. 17, 2024
 
 
 ## Summary of Lab
@@ -8,11 +8,11 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 ## Lab Schematics and Procedure
 
-Connect the DMM alligator clamps to both ends of the resistor and set the DMM to measure Ohms. Compare the measured value to the expected value and check to see if it falls within the resistor's tolerance. Repeat for all 4 resistors.
+Connect the DMM alligator clamps to both ends of the resistor and set the DMM to measure Ohms. Compare the measured value to the expected value and check if it falls within the resistor's tolerance. Repeat for all 4 resistors.
 
 ![Resistor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/0001.jpg)
 
-Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure Farads. Compare the measured value to the expected value and check to see if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
+Connect the DMM alligator clamps to both ends of the capacitors and set the DMM to measure Farads. Compare the measured value to the expected value and check if it falls within the capacitor's tolerance if it has one. Repeat for all 4 capacitors.
 
 ![Capacitor Setup](https://github.com/Feffle/BAE305-SP24-Lab1/blob/main/Images/Lab%201/0002.jpg)
 
@@ -54,7 +54,7 @@ Considering the expected, minimum, and maximum values for these resistors we can
 | blue     | electrolytic | 100000000 |---       | ---     | 106000000     | Out of Range |
 
 *a.) Do the instruments agree with the expected value?*  
-Yes, they agree with the values for the most part, the values are a little off but that is because the values are so small and our Fluke DMM may not be able to accurately measure at that precision.
+Yes, they agree with the values, for the most part, the values are a little off but that is because the values are so small and our Fluke DMM may not be able to accurately measure at that precision.
 
 *b.) Does the polarity affect the measurement of the electrolytic capacitor?*    
 Yes, it does affect the measurements of the electrolytic capacitors but not enough to alter our values.
@@ -92,7 +92,7 @@ They do not agree because the multimeter measures the voltage in RMS so the valu
 
 *Change the frequency and amplitude of the generated sinusoidal and observe what happens in the o-scope and Fluke DMM. What happens?*   
 
-When you change either the frequency or amplitude the o-scope and Fluke DMM change according to the new values that you have altered to on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
+When you change the frequency or amplitude, the o-scope, and Fluke DMM change according to the new values that you have altered on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
 
 
 ***Note: All code above this line was written by Eli Barrow***
