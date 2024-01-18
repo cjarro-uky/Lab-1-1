@@ -50,8 +50,8 @@ Considering the expected, minimum, and maximum values for these resistors we can
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
 |   blue   | ceramic      |10,000      | 10,000.25 | 9,999.75 | 10,200         | In Range |
 | yellow   | ceramic      |1000       | 1100     | 900     | 1300          | In Range |
-| black    | electrolytic | 100000000 | ---      | ---     | 97900000      | In Range |
-| blue     | electrolytic | 100000000 |---       | ---     | 106000000     | Out of Range |
+| black    | electrolytic | 100E6 | ---      | ---     | 97.9E6  | In Range |
+| blue     | electrolytic | 100E6 |---       | ---     | 106E6    | Out of Range |
 
 *a.) Do the instruments agree with the expected value?*  
 Yes, they agree with the values, for the most part, the values are a little off but that is because the values are so small and our Fluke DMM may not be able to accurately measure at that precision.
@@ -95,7 +95,6 @@ They do not agree because the multimeter measures the voltage in RMS so the valu
 When you change the frequency or amplitude, the o-scope, and Fluke DMM change according to the new values that you have altered on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
 
 
-***Note: All code above this line was written by Eli Barrow***
 
 ## Outcome and Results of Lab
 The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. The results of the lab also supported this with the readings of the measurement devices during each step needing to be interpreted and double-checked to confirm the data was valid.
